@@ -1,2 +1,2 @@
 This is controller class
-  modified in master branch
+text added to test merge from git hub
